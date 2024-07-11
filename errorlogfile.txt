@@ -1,0 +1,10 @@
+2024-07-11 12:01:34 INFO User logged in
+2024-07-11 12:02:41 ERROR Database connection failed
+2024-07-11 12:03:12 WARNING Disk space low
+2024-07-11 12:04:53 ERROR Failed to load configuration
+2024-07-11 12:05:01 INFO File uploaded successfully
+2024-07-11 12:06:45 ERROR User authentication failed
+2024-07-11 12:07:22 INFO System shutdown initiated
+2024-07-11 12:08:30 ERROR Unable to save file
+2024-07-11 12:09:19 WARNING High memory usage
+2024-07-11 12:10:10 INFO User logged out
